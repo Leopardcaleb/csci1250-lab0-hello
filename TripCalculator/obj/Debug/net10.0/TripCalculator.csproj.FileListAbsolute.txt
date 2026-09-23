@@ -1,0 +1,15 @@
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\obj\Debug\net10.0\TripCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\obj\Debug\net10.0\TripCalculator.AssemblyInfoInputs.cache
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\obj\Debug\net10.0\TripCalculator.AssemblyInfo.cs
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\obj\Debug\net10.0\TripCalculator.csproj.CoreCompileInputs.cache
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\obj\Debug\net10.0\TripCalculator.sourcelink.json
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\bin\Debug\net10.0\TripCalculator.exe
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\bin\Debug\net10.0\TripCalculator.deps.json
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\bin\Debug\net10.0\TripCalculator.runtimeconfig.json
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\bin\Debug\net10.0\TripCalculator.dll
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\bin\Debug\net10.0\TripCalculator.pdb
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\obj\Debug\net10.0\TripCalculator.dll
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\obj\Debug\net10.0\refint\TripCalculator.dll
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\obj\Debug\net10.0\TripCalculator.pdb
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\obj\Debug\net10.0\TripCalculator.genruntimeconfig.cache
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\TripCalculator\obj\Debug\net10.0\ref\TripCalculator.dll
