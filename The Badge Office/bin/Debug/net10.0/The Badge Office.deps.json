@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "The Badge Office/1.0.0": {
+        "runtime": {
+          "The Badge Office.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The Badge Office/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

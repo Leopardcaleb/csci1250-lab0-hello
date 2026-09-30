@@ -1,0 +1,15 @@
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\bin\Debug\net10.0\lab03-badge.exe
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\bin\Debug\net10.0\lab03-badge.deps.json
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\bin\Debug\net10.0\lab03-badge.runtimeconfig.json
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\bin\Debug\net10.0\lab03-badge.dll
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\bin\Debug\net10.0\lab03-badge.pdb
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\obj\Debug\net10.0\lab03-badge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\obj\Debug\net10.0\lab03-badge.AssemblyInfoInputs.cache
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\obj\Debug\net10.0\lab03-badge.AssemblyInfo.cs
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\obj\Debug\net10.0\lab03-badge.csproj.CoreCompileInputs.cache
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\obj\Debug\net10.0\lab03-badge.sourcelink.json
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\obj\Debug\net10.0\lab03-badge.dll
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\obj\Debug\net10.0\refint\lab03-badge.dll
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\obj\Debug\net10.0\lab03-badge.pdb
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\obj\Debug\net10.0\lab03-badge.genruntimeconfig.cache
+C:\Users\LEOPARDC\CSCI1250\lab0-hello\The Badge Office\obj\Debug\net10.0\ref\lab03-badge.dll
