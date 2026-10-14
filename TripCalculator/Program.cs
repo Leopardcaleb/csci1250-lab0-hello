@@ -30,14 +30,14 @@ int pizzas = Convert. ToInt32(Console.ReadLine());
 Console.WriteLine ("Price per pizza:");
 double costPerPizza = Convert.ToDouble(Console.ReadLine());
 
-double fuelCost = costOfFuel (roundTrip, milesPerGallon, pricePerGallon);
+double fuelCost = FuelCost (roundTrip, milesPerGallon, pricePerGallon);
 
 double pizzaCost = pizzas * costPerPizza;
 double tripTotal = fuelCost + pizzaCost;
 
 
 
-Console.WriteLine("Gallons needed " + gallonsNeeded.ToString("F2"));
+
 Console.WriteLine("Fuel cost " + fuelCost.ToString("C"));
 
 
@@ -47,17 +47,17 @@ Console.WriteLine("Pizza cost: " + pizzaCost.ToString("C"));
 Console.WriteLine("Trip total: " + tripTotal.ToString("C"));
 
 //Part 2: The Group
-string[] names = {"Ada.", "Grace","Alan","Katherine"};
+string[] names = {"Ada", "Grace","Alan","Katherine"};
 double[] hoursWorked = {22,15,30,18};
 double[] hourlyRates = {13.50, 16.00, 11.20, 14.80};
 
 int people=names.Length;
+int totalSlices = pizzas*slices;
 double slicesPerPerson = (double)(pizzas*totalSlices) / people;
 double costPerPerson = tripTotal/people;
-int totalSlices = pizzas*slices;
+
 
 Console.WriteLine("Part 2: The Group");
-Console.WriteLine("People going: " + people);
 Console.WriteLine("Slices each: " + slicesPerPerson.ToString("F1"));
 Console.WriteLine("Cost per person: " + costPerPerson.ToString("C"));
 
@@ -65,7 +65,7 @@ Console.WriteLine("Cost per person: " + costPerPerson.ToString("C"));
 Console.WriteLine(" Part 3: Who Works How Long? ");
 
 Double totalHours = 0;
-double takeHomepay = 0;
+double totalTakeHomePay = 0;
 double longest = 0;
 
 for(int i = 0; i <names.Length; i++)
@@ -73,7 +73,7 @@ for(int i = 0; i <names.Length; i++)
     double takeHome = takeHomePay(hoursWorked[i], hourlyRates[i], taxRate);
     double takeHomePerHour = takeHome / hoursWorked [i];
     double hoursNeeded = hourstoCover(costPerPerson,takeHomePerHour);
-    Console.WriteLine($"{names[i]}:takes home {takeHome:C} for " + $"{hoursWorked[i]:F0} hours, {takeHomepay:C}" + 
+    Console.WriteLine($"{names[i]}:takes home {takeHome:C} for " + $"{hoursWorked[i]:F0} hours, {takeHomePerHour:C}" + 
     $"per hour, must work {hoursNeeded:F2} hours");
     totalHours += hoursWorked[i];
     totalTakeHomePay += takeHome;
@@ -85,13 +85,13 @@ Console.WriteLine("Longest anyone must work: " + longest.ToString("F2"));
 
 
 //Calculates and returns fuel cost.
-static double fuelCost(double miles, double milesPerGallon, double pricePerGallon);
+static double FuelCost(double miles, double milesPerGallon, double pricePerGallon)
 {double gallons = miles / milesPerGallon; return gallons * pricePerGallon; }
 
 //Calculates and returns take home pay after taxes. 
-static double takeHomePay(double hoursWorked, double hourlyRate, double taxRate);
-{double grossPay = hoursWorked * hourlyRates; double taxes = grossPay * taxRate; return grossPay - taxes;}
+static double takeHomePay(double hours, double hourlyRate, double taxRate)
+{double grossPay = hours * hourlyRate; double taxes = grossPay * taxRate; return grossPay - taxes;}
 //Calculates and returns the hours needed to cover amount owed.
-static double hourstoCover(double amountOwed, double takeHomePerHour);
+static double hourstoCover(double amountOwed, double takeHomePerHour)
 {return amountOwed / takeHomePerHour;}
 
