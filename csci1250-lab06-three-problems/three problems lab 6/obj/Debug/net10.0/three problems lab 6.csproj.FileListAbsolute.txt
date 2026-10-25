@@ -1,0 +1,15 @@
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\bin\Debug\net10.0\three problems lab 6.exe
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\bin\Debug\net10.0\three problems lab 6.deps.json
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\bin\Debug\net10.0\three problems lab 6.runtimeconfig.json
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\bin\Debug\net10.0\three problems lab 6.dll
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\bin\Debug\net10.0\three problems lab 6.pdb
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\obj\Debug\net10.0\three problems lab 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\obj\Debug\net10.0\three problems lab 6.AssemblyInfoInputs.cache
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\obj\Debug\net10.0\three problems lab 6.AssemblyInfo.cs
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\obj\Debug\net10.0\three problems lab 6.csproj.CoreCompileInputs.cache
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\obj\Debug\net10.0\three problems lab 6.sourcelink.json
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\obj\Debug\net10.0\three problems lab 6.dll
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\obj\Debug\net10.0\refint\three problems lab 6.dll
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\obj\Debug\net10.0\three problems lab 6.pdb
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\obj\Debug\net10.0\three problems lab 6.genruntimeconfig.cache
+C:\Users\leopa\Downloads\LAB visual studio\csci1250-lab0-hello\csci1250-lab06-three-problems\three problems lab 6\obj\Debug\net10.0\ref\three problems lab 6.dll
